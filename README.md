@@ -1,5 +1,5 @@
 # projeto-site-2
-# Projeto Web - Evolução para Interface Profissional
+# Evoluçao do site 
 
 ## Descrição do Projeto
 Este projeto consiste na evolução da **Entrega I**, transformando a estrutura HTML inicial em uma interface visual **profissional, responsiva e acessível**, utilizando **CSS3** e boas práticas de design.
